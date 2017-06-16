@@ -1,1 +1,6 @@
-hello: Hola a todos
+configuration:  
+  projectName: configclient
+server:  
+  port: 8000
+message:  
+  greeting: Hello from the configuration
